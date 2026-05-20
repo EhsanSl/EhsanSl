@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Ehsan
 
 - You can email me at: esalimi.cs@gmail.com
-
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansl)
